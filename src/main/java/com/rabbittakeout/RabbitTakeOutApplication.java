@@ -8,6 +8,8 @@ public class RabbitTakeOutApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RabbitTakeOutApplication.class, args);
+
+
     }
 
 }
