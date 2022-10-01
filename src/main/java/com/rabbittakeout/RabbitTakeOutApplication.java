@@ -8,8 +8,7 @@ public class RabbitTakeOutApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RabbitTakeOutApplication.class, args);
-
-
+        System.out.println(111);
     }
 
 }
