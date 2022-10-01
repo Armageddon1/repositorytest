@@ -10,6 +10,7 @@ public class RabbitTakeOutApplication {
         SpringApplication.run(RabbitTakeOutApplication.class, args);
         System.out.println(111);
         System.out.println(111);
+        System.out.println(333);
     }
 
 }
